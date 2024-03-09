@@ -1,0 +1,89 @@
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\shibu.exe.config
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\shibu.exe
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\shibu.pdb
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.Homepage.resources
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.Properties.Resources.resources
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.csproj.GenerateResource.cache
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.exe
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.pdb
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.Admin.resources
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.Instructionpage.resources
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.Exam.resources
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Controls.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Fuzzy.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Genetic.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.MachineLearning.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Math.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Neuro.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.VFW.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Vision.dll
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\IPPrototyper.exe
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Controls.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Fuzzy.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Genetic.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Imaging.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.MachineLearning.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Math.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Neuro.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.VFW.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\user\Pictures\shibu\shibu\bin\Debug\AForge.Vision.xml
+C:\Users\user\Pictures\shibu\shibu\obj\Debug\shibu.csproj.CopyComplete
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\shibu.exe.config
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\shibu.exe
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\shibu.pdb
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Controls.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Fuzzy.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Genetic.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Imaging.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Imaging.Formats.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.MachineLearning.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Math.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Neuro.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Robotics.Lego.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Robotics.Surveyor.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Robotics.TeRK.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Video.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Video.DirectShow.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Video.FFMPEG.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Video.Kinect.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Video.VFW.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Video.Ximea.xml
+H:\Acadmic project report\final Project Application\shibu\bin\Debug\AForge.Vision.xml
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.csproj.AssemblyReference.cache
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.Admin.resources
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.Exam.resources
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.Homepage.resources
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.Instructionpage.resources
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.Properties.Resources.resources
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.csproj.GenerateResource.cache
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.csproj.CoreCompileInputs.cache
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.csproj.CopyComplete
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.exe
+H:\Acadmic project report\final Project Application\shibu\obj\Debug\shibu.pdb
